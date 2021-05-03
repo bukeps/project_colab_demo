@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 df = pd.read_csv('data/monday.csv')
 
 def explore():
-    pass 
+    print('hi, it is burcu') 
 
 if __name__ == '__main__':
-    print('wow. such data. much exploration.')
+    explore()
 
